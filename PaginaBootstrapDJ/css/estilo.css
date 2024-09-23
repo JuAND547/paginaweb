@@ -1,0 +1,9 @@
+p {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.columna{
+    padding-left: 600px;
+    padding-top:500px ;
+    padding-bottom: 1000px;
+    background-color: red;
+}
