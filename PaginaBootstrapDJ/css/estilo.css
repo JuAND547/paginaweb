@@ -15,6 +15,10 @@ p {
     color:black;
     margin: 100;
     display:grid;
+    border-radius: 20px;
+    border-width: 5px;
+    border-color: black;
+    border-style:solid;
 }
 .bloques:hover{
     background-color: yellow;
