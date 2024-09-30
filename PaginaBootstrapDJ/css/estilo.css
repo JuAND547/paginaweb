@@ -1,8 +1,21 @@
 p {
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
-body{
-    margin-left: 90;
-    margin-right: 90;
-    margin-top: 1000;
+.carousel-border{
+    border: 5px solid black; 
+    border-radius: 10px; 
+}
+.bloques{
+    padding-left: 50px;
+    padding-right: 150px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    background-color: whitesmoke;
+    text-decoration: none;
+    color:black;
+    margin: 100;
+    display:grid;
+}
+.bloques:hover{
+    background-color: yellow;
 }
